@@ -14,8 +14,7 @@ monocular 3D Obeject Detction에서는 카메라 파라미터의 차이에 따�
 원래 3차원 공간상의 한 직선을 표현할 때는 공간 위 두 점 P, Q를 사용하여 다음과 같이 나타낸다. 
 
 $$
-P(x_p, y_p, z_p) \quad Q(x_q, y_q, z_q)\\
-\overline{PQ} = (x_q-x_p, y_q-y_p, z_q-z_p)
+P(x_p, y_p, z_p) \quad Q(x_q, y_q, z_q)
 $$
 <br>
 $$
