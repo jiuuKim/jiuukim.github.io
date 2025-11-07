@@ -1,5 +1,5 @@
 ---
-title: "[Plucker Embedding 이란?]"
+title: "Plucker Embedding 이란?"
 date: 2025-11-07 17:30:00 +0900
 categories: [Computer Vision]
 tags: [3DOD]
