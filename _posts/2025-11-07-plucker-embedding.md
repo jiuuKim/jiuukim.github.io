@@ -3,6 +3,7 @@ title: "Plucker Embedding 이란?"
 date: 2025-11-07 17:30:00 +0900
 categories: [Computer Vision]
 tags: [3DOD]
+math: true
 ---
 
 monocular 3D Obeject Detction에서는 카메라 파라미터의 차이에 따른 성능 저하가 크게 발생한다. 따라서 카메라 높이 변화에 강건한 모델을 구축하기 위해, image transformations, data augmentations, Plcuker Embedding과 같은 방식이 활용된다. 여기서 말하는 "Plucker Embedding"에 대해 공부해보고자 한다. 
